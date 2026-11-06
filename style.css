@@ -123,6 +123,10 @@
     padding: 0 28px 0 10px;
 }
 
+.escolha select:focus {
+	outline-color: #008ECC;
+}
+
 .escolha select:hover {
 	background-color: #008ECC;
 	color: #ffffff;
